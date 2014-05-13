@@ -1,5 +1,7 @@
 # Numbers to Words (JavaScript)
 
+A personal JavaScript challenge I wanted to take on. This was coded using Test/Behaviour Driven Development ([JasmineJS](https://github.com/pivotal/jasmine))
+
 ## NOTE
 I wrote a Ruby version of this [here](https://github.com/muhanad40/Numbers-To-Words)
 
