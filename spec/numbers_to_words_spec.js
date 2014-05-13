@@ -184,4 +184,11 @@ describe('Numbers to Words:', function() {
 
 	});
 
+	describe('should print in context "Pounds"', function() {
+		it('should return "123" as "One Hundred and Twenty-Three Pounds"', function() {
+			converter.set_context("Pounds");
+			expect(converter.convert('123')).toBe('One Hundred and Twenty-Three Pounds');
+		});
+	});
+
 });
