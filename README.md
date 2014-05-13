@@ -14,6 +14,6 @@ http://numberstowords.heroku.com/js
 <script>
   n2w = new NumberToWords();
   phrase = n2w.convert("4264");
-  console.log(phrase);
+  $(body).html(phrase);
 </script>
 ```
