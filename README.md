@@ -1,6 +1,6 @@
 # Numbers to Words (JavaScript)
 
-A personal JavaScript challenge I wanted to take on. This was coded using Test/Behaviour Driven Development ([JasmineJS](https://github.com/pivotal/jasmine))
+A personal JavaScript challenge I wanted to take on. This script takes a numerical input and outputs the words in English. This was coded using Test/Behaviour Driven Development ([JasmineJS](https://github.com/pivotal/jasmine))
 
 ## NOTE
 You can add more words to the **WORDS** property in the initializer method to extend the size of numbers the script can handle.
